@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liandeguo
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Frontend Development
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: liande@guocn.org
 
 <!---
