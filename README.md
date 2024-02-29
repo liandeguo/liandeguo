@@ -2,10 +2,9 @@
 <h3 align="center">A passionate developer from Germany</h3>
 
 - 🌱 I’m currently learning **Go**
-
 - 📫 How to reach me **liande@guocn.org**
-
-<h3 align="left">Connect with me:</h3>
+- 🎂 I'm currently 13y/o
+<h3 align="left">Connect with me:</h3>  
 <p align="left">
 <a href="https://dribbble.com/liandeguo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="liandeguo" height="30" width="40" /></a>
 </p>
