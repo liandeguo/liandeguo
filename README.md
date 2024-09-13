@@ -2,7 +2,9 @@
 <h1 align="center">Hi, I am Liande!</h1>
 <h3 align="center">Programmer - Student - 14y/o</h3>
 
-<div style="display:flex"> 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liandeguo&show_icons=true&locale=en&layout=compact" alt="liandeguo" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=liandeguo&show_icons=true&locale=en" alt="liandeguo" /></p>
-</div>
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=liandeguo&theme=dracula&hide_border=true"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liandeguo&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="liandeguo"/></td>
+  </tr>
+</table>
