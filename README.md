@@ -1,10 +1,20 @@
-<img src="https://cloud-oka68np8p-hack-club-bot.vercel.app/0background.jpg">
-<h1 align="center">Hi, I am Liande!</h1>
-<h3 align="center">Programmer - Student - 15y/o</h3>
+# Leander Guo
+16 · Hannover, Germany · Interested in medical AI, health tech, and software
 
-<table>
-  <tr>
-    <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=liandeguo&theme=dracula&hide_border=true"/></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liandeguo&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="liandeguo"/></td>
-  </tr>
-</table>
+I've been writing code since I was seven and have been attending lectures 
+at the Medizinische Hochschule Hannover since 13. Currently building 
+tools that make medical data more accessible and understandable.
+
+---
+**What I'm building now**
+- [Symptom Explorer](https://github.com/liandeguo/disease-symptom-tool) — 
+  Search 700+ diseases and explore their associated symptoms
+
+**Interested in**
+- Medical AI and clinical decision support
+- Experimental medicine
+
+---
+
+I'm always open to talking to researchers, founders, or developers 
+working in health tech or medical AI.
